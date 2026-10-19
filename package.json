@@ -1,0 +1,12 @@
+{
+  "name": "dig-ddos-tool",
+  "version": "1.0.0",
+  "description": "Total System Downtime Generator for PHP/Web Stacks",
+  "main": "server_attack.js",
+  "scripts": {
+    "start": "node server_attack.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
